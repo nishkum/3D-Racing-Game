@@ -1,0 +1,27 @@
+\hypertarget{classImage}{\section{\-Image \-Class \-Reference}
+\label{classImage}\index{\-Image@{\-Image}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classImage_a264d2fc87171fc29d50ed2ac1f2a695d}{{\bfseries \-Image} (int w, int h, unsigned char $\ast$data)}\label{classImage_a264d2fc87171fc29d50ed2ac1f2a695d}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classImage_ab8d12f635013c04159cd4d3d972bac88}{int {\bfseries width}}\label{classImage_ab8d12f635013c04159cd4d3d972bac88}
+
+\item 
+\hypertarget{classImage_a51df43db420c9c0b57536cb2dd36de5c}{int {\bfseries height}}\label{classImage_a51df43db420c9c0b57536cb2dd36de5c}
+
+\item 
+\hypertarget{classImage_a5161f4b4c8540496607adc56a0b0f917}{unsigned char $\ast$ {\bfseries imagedata}}\label{classImage_a5161f4b4c8540496607adc56a0b0f917}
+
+\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+\-Load\-B\-M\-P.\-h\item 
+\-Load\-B\-M\-P.\-cpp\end{DoxyCompactItemize}

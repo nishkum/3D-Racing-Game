@@ -1,0 +1,42 @@
+\hypertarget{classobject}{\section{object \-Class \-Reference}
+\label{classobject}\index{object@{object}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classobject_aa9c6efb8a4e2ede1f55c1278d2777ebf}{{\bfseries object} (float, float, float, float, float, float)}\label{classobject_aa9c6efb8a4e2ede1f55c1278d2777ebf}
+
+\item 
+\hypertarget{classobject_ab37f04add68056889e6f820c3e2e3cff}{\hyperlink{classvector}{vector} {\bfseries get\-Velocity} ()}\label{classobject_ab37f04add68056889e6f820c3e2e3cff}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classobject_ab88f69538586ed8b4eccdd72ff9736e9}{float {\bfseries teta}}\label{classobject_ab88f69538586ed8b4eccdd72ff9736e9}
+
+\item 
+\hypertarget{classobject_a9ca57ce8fdbfbc35555f0a976930d0ac}{float {\bfseries fi}}\label{classobject_a9ca57ce8fdbfbc35555f0a976930d0ac}
+
+\item 
+\hypertarget{classobject_ad573f9a5c827003cd34d4ba9bf8be84d}{float {\bfseries speed}}\label{classobject_ad573f9a5c827003cd34d4ba9bf8be84d}
+
+\item 
+\hypertarget{classobject_aa1021a0dea038eced722b779f17f22b9}{float {\bfseries accel}}\label{classobject_aa1021a0dea038eced722b779f17f22b9}
+
+\item 
+\hypertarget{classobject_af2732a07f393af7f39e20b47e397211e}{\hyperlink{classvector}{vector} {\bfseries position}}\label{classobject_af2732a07f393af7f39e20b47e397211e}
+
+\item 
+\hypertarget{classobject_ad184b57011598eeb8432a98bee87ca0f}{\hyperlink{classvector}{vector} {\bfseries normal}}\label{classobject_ad184b57011598eeb8432a98bee87ca0f}
+
+\item 
+\hypertarget{classobject_a3ade264a11708138cb6ea81c4a85ca9b}{float {\bfseries \-M\-A\-X\-S\-P\-E\-E\-D}}\label{classobject_a3ade264a11708138cb6ea81c4a85ca9b}
+
+\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+object.\-h\item 
+object.\-cpp\end{DoxyCompactItemize}

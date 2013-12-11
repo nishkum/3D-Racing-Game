@@ -1,0 +1,60 @@
+\hypertarget{classvector}{\section{vector \-Class \-Reference}
+\label{classvector}\index{vector@{vector}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classvector_a1c3cda61817fb47f81a82d30a7ae4832}{{\bfseries vector} (float, float, float)}\label{classvector_a1c3cda61817fb47f81a82d30a7ae4832}
+
+\item 
+\hypertarget{classvector_a0966a87f29dbe8ea917d5a41910428c8}{{\bfseries vector} (const \hyperlink{classvector}{vector} \&v)}\label{classvector_a0966a87f29dbe8ea917d5a41910428c8}
+
+\item 
+\hypertarget{classvector_a9064fc7461cc65a28b064f6c3775ea29}{void {\bfseries set\-Coords} (float, float, float)}\label{classvector_a9064fc7461cc65a28b064f6c3775ea29}
+
+\item 
+\hypertarget{classvector_a066b3c2fad1ef00e679d9e3dbf6292cb}{\hyperlink{classvector}{vector} {\bfseries operator+} (const \hyperlink{classvector}{vector} \&v) const }\label{classvector_a066b3c2fad1ef00e679d9e3dbf6292cb}
+
+\item 
+\hypertarget{classvector_a9cedfc15eb03aee2e254bc1b1da11bac}{\hyperlink{classvector}{vector} {\bfseries operator-\/} (const \hyperlink{classvector}{vector} \&v) const }\label{classvector_a9cedfc15eb03aee2e254bc1b1da11bac}
+
+\item 
+\hypertarget{classvector_a91c294554ceeab46edb9bf7c233ae254}{\hyperlink{classvector}{vector} {\bfseries operator+=} (const \hyperlink{classvector}{vector} \&v) const }\label{classvector_a91c294554ceeab46edb9bf7c233ae254}
+
+\item 
+\hypertarget{classvector_aa045552e05bb0ebcb5c6892c040a5a07}{\hyperlink{classvector}{vector} {\bfseries operator-\/=} (const \hyperlink{classvector}{vector} \&v) const }\label{classvector_aa045552e05bb0ebcb5c6892c040a5a07}
+
+\item 
+\hypertarget{classvector_a6f2b3023323f6adf1c9f19ff6bddbef7}{\hyperlink{classvector}{vector} \& {\bfseries operator=} (const \hyperlink{classvector}{vector} \&v)}\label{classvector_a6f2b3023323f6adf1c9f19ff6bddbef7}
+
+\item 
+\hypertarget{classvector_a929e5d7e98a09de18ddc2c21873686a1}{\hyperlink{classvector}{vector} {\bfseries scalar\-Mult} (float f)}\label{classvector_a929e5d7e98a09de18ddc2c21873686a1}
+
+\item 
+\hypertarget{classvector_a71a699e0c6ba26c58459576d6f40dd45}{float {\bfseries dotproduct} (const \hyperlink{classvector}{vector} \&v)}\label{classvector_a71a699e0c6ba26c58459576d6f40dd45}
+
+\item 
+\hypertarget{classvector_a54eb1593156a7dbdc269b5d9a8e8feea}{\hyperlink{classvector}{vector} {\bfseries crossproduct} (const \hyperlink{classvector}{vector} \&v)}\label{classvector_a54eb1593156a7dbdc269b5d9a8e8feea}
+
+\item 
+\hypertarget{classvector_a7f6467987f564afe9a9884d0398fab69}{float {\bfseries magnitude} ()}\label{classvector_a7f6467987f564afe9a9884d0398fab69}
+
+\item 
+\hypertarget{classvector_a11dd773978f7e4fae259921ec9c6641d}{float {\bfseries magnitudesquare} ()}\label{classvector_a11dd773978f7e4fae259921ec9c6641d}
+
+\item 
+\hypertarget{classvector_af0145bd5129500abfd26935333e492c8}{\hyperlink{classvector}{vector} {\bfseries normalize} ()}\label{classvector_af0145bd5129500abfd26935333e492c8}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classvector_aae76f089be1037fb938bd732b0608c22}{float $\ast$ {\bfseries comp}}\label{classvector_aae76f089be1037fb938bd732b0608c22}
+
+\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+vector.\-h\item 
+vector.\-cpp\end{DoxyCompactItemize}

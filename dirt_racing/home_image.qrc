@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>bike.jpg</file>
+        <file>bike1.jpg</file>
+        <file>bike2.jpg</file>
+        <file>bike3.jpg</file>
+        <file>bike4.jpg</file>
+        <file>track0_image.jpg</file>
+        <file>track1_image.jpg</file>
+        <file>track2_image.jpg</file>
+        <file>track3_image.jpg</file>
+        <file>track4_image.jpg</file>
+        <file>track5_image.jpg</file>
+        <file>track6_image.jpg</file>
+        <file>track7_image.jpg</file>
+        <file>track8_image.jpg</file>
+        <file>track9_image.jpg</file>
+        <file>sky.jpg</file>
+        <file>controls.jpg</file>
+    </qresource>
+</RCC>

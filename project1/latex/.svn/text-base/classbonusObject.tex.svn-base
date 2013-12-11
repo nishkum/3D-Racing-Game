@@ -1,0 +1,36 @@
+\hypertarget{classbonusObject}{\section{bonus\-Object \-Class \-Reference}
+\label{classbonusObject}\index{bonus\-Object@{bonus\-Object}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classbonusObject_afbd5bcfbce7dbb8c8c12bf6bbe7731ea}{{\bfseries bonus\-Object} (float pos\mbox{[}$\,$\mbox{]}\mbox{[}3\mbox{]}, float cent\mbox{[}$\,$\mbox{]})}\label{classbonusObject_afbd5bcfbce7dbb8c8c12bf6bbe7731ea}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classbonusObject_a72ba79c158730de1502fcfcf13221a9e}{float {\bfseries positions} \mbox{[}4\mbox{]}\mbox{[}3\mbox{]}}\label{classbonusObject_a72ba79c158730de1502fcfcf13221a9e}
+
+\item 
+\hypertarget{classbonusObject_ae5e68fd04d1cbb52116062621c697c87}{float {\bfseries centre} \mbox{[}3\mbox{]}}\label{classbonusObject_ae5e68fd04d1cbb52116062621c697c87}
+
+\item 
+\hypertarget{classbonusObject_a918f57e4bf48b18d481c35c4527162fa}{bool {\bfseries beenhit}}\label{classbonusObject_a918f57e4bf48b18d481c35c4527162fa}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classbonusObject_abc7fafefa013cb86a0518a192329ff82}{static \hyperlink{classbonusObject}{bonus\-Object} $\ast$$\ast$ {\bfseries bonus\-Obj\-Array} = new \hyperlink{classbonusObject}{bonus\-Object}$\ast$\mbox{[}100\mbox{]}}\label{classbonusObject_abc7fafefa013cb86a0518a192329ff82}
+
+\item 
+\hypertarget{classbonusObject_aa41710a01aae2e883e9563b7f8790736}{static int {\bfseries totalbonus\-Objects} = 0}\label{classbonusObject_aa41710a01aae2e883e9563b7f8790736}
+
+\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+object.\-h\item 
+object.\-cpp\end{DoxyCompactItemize}

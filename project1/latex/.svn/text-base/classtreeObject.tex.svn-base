@@ -1,0 +1,33 @@
+\hypertarget{classtreeObject}{\section{tree\-Object \-Class \-Reference}
+\label{classtreeObject}\index{tree\-Object@{tree\-Object}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classtreeObject_aa25a9d3a05556afa5ba9f4be6cbd9e92}{{\bfseries tree\-Object} (float pos\mbox{[}$\,$\mbox{]}\mbox{[}3\mbox{]}, float cent\mbox{[}$\,$\mbox{]})}\label{classtreeObject_aa25a9d3a05556afa5ba9f4be6cbd9e92}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classtreeObject_acf0d298de66635c8fb8ee34e084853b8}{float {\bfseries positions} \mbox{[}4\mbox{]}\mbox{[}3\mbox{]}}\label{classtreeObject_acf0d298de66635c8fb8ee34e084853b8}
+
+\item 
+\hypertarget{classtreeObject_ab9d82d44073d18602b196a22375203f5}{float {\bfseries centre} \mbox{[}3\mbox{]}}\label{classtreeObject_ab9d82d44073d18602b196a22375203f5}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classtreeObject_a04b59c6e31dc86fb68165e7dbfa0d0a3}{static \hyperlink{classtreeObject}{tree\-Object} $\ast$$\ast$ {\bfseries tree\-Obj\-Array} = new \hyperlink{classtreeObject}{tree\-Object}$\ast$\mbox{[}100\mbox{]}}\label{classtreeObject_a04b59c6e31dc86fb68165e7dbfa0d0a3}
+
+\item 
+\hypertarget{classtreeObject_a8edd9c4079049d7b938db334ca5f8692}{static int {\bfseries total\-Tree\-Objects} = 0}\label{classtreeObject_a8edd9c4079049d7b938db334ca5f8692}
+
+\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+object.\-h\item 
+object.\-cpp\end{DoxyCompactItemize}

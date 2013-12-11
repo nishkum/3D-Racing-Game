@@ -1,0 +1,33 @@
+\hypertarget{classstatObject}{\section{stat\-Object \-Class \-Reference}
+\label{classstatObject}\index{stat\-Object@{stat\-Object}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classstatObject_a6c64d66e2a449cd62b7fc78e410973b5}{{\bfseries stat\-Object} (float pos\mbox{[}$\,$\mbox{]}\mbox{[}3\mbox{]}, float cent\mbox{[}$\,$\mbox{]})}\label{classstatObject_a6c64d66e2a449cd62b7fc78e410973b5}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classstatObject_a8e67ec1897e85da518bd620c9a6eabf1}{float {\bfseries positions} \mbox{[}4\mbox{]}\mbox{[}3\mbox{]}}\label{classstatObject_a8e67ec1897e85da518bd620c9a6eabf1}
+
+\item 
+\hypertarget{classstatObject_acee6a0f8535492e45d3c37c730910f2f}{float {\bfseries centre} \mbox{[}3\mbox{]}}\label{classstatObject_acee6a0f8535492e45d3c37c730910f2f}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Static \-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classstatObject_ad078d621c0208c6bada836b4510a250e}{static \hyperlink{classstatObject}{stat\-Object} $\ast$$\ast$ {\bfseries \-Obj\-Array} = new \hyperlink{classstatObject}{stat\-Object}$\ast$\mbox{[}100\mbox{]}}\label{classstatObject_ad078d621c0208c6bada836b4510a250e}
+
+\item 
+\hypertarget{classstatObject_ac3dfe8f93fb87be216405343cdac4779}{static int {\bfseries total\-Objects} = 0}\label{classstatObject_ac3dfe8f93fb87be216405343cdac4779}
+
+\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+object.\-h\item 
+object.\-cpp\end{DoxyCompactItemize}

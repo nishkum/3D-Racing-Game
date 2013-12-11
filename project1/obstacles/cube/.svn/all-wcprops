@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/~cs5100679/CSP301_project1/!svn/ver/60/obstacles/cube
+END
+crate.tga
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/~cs5100679/CSP301_project1/!svn/ver/59/obstacles/cube/crate.tga
+END
+cube_face.tga
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/~cs5100679/CSP301_project1/!svn/ver/57/obstacles/cube/cube_face.tga
+END
+cube_texture.mtl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/~cs5100679/CSP301_project1/!svn/ver/57/obstacles/cube/cube_texture.mtl
+END
+cube_texture.obj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/~cs5100679/CSP301_project1/!svn/ver/60/obstacles/cube/cube_texture.obj
+END

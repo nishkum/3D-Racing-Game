@@ -1,0 +1,48 @@
+\hypertarget{classTerrain}{\section{\-Terrain \-Class \-Reference}
+\label{classTerrain}\index{\-Terrain@{\-Terrain}}
+}
+\subsection*{\-Public \-Member \-Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classTerrain_a414f72bc43ab2b6116760dd40ef2bdd4}{{\bfseries \-Terrain} (int w, int l)}\label{classTerrain_a414f72bc43ab2b6116760dd40ef2bdd4}
+
+\item 
+\hypertarget{classTerrain_ae47ff62d4b41f35965aff289a4276823}{void {\bfseries set\-Height} (int, float, int)}\label{classTerrain_ae47ff62d4b41f35965aff289a4276823}
+
+\item 
+\hypertarget{classTerrain_a0161c7115d1f23d2eb124af93df105e3}{float {\bfseries get\-Height} (int, int)}\label{classTerrain_a0161c7115d1f23d2eb124af93df105e3}
+
+\item 
+\hypertarget{classTerrain_a27da184f3e92abbcd9a87665468c7dda}{int {\bfseries get\-Width} ()}\label{classTerrain_a27da184f3e92abbcd9a87665468c7dda}
+
+\item 
+\hypertarget{classTerrain_a2a976def2ae9cb8ec3ce77bb69cebebb}{int {\bfseries get\-Length} ()}\label{classTerrain_a2a976def2ae9cb8ec3ce77bb69cebebb}
+
+\item 
+\hypertarget{classTerrain_a37bad234df702ef7b0d1cdca62be956f}{void {\bfseries computenormals} ()}\label{classTerrain_a37bad234df702ef7b0d1cdca62be956f}
+
+\item 
+\hypertarget{classTerrain_ac4fd4cba30f04b2e1b10c1a64f1f3c84}{\hyperlink{classvector}{vector} {\bfseries get\-Normal} (int, int)}\label{classTerrain_ac4fd4cba30f04b2e1b10c1a64f1f3c84}
+
+\end{DoxyCompactItemize}
+\subsection*{\-Public \-Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{classTerrain_ab19ceea2910662a8f876b2afa19d2673}{float $\ast$$\ast$ {\bfseries twodpointer}}\label{classTerrain_ab19ceea2910662a8f876b2afa19d2673}
+
+\item 
+\hypertarget{classTerrain_a53beea1f5b3421259bc95845fccc7c44}{int {\bfseries width}}\label{classTerrain_a53beea1f5b3421259bc95845fccc7c44}
+
+\item 
+\hypertarget{classTerrain_ad2c71fd65d9dcd1ef5c0508631d3f7b0}{int {\bfseries length}}\label{classTerrain_ad2c71fd65d9dcd1ef5c0508631d3f7b0}
+
+\item 
+\hypertarget{classTerrain_ab48c6f5a224642c7e415cf397d7c0ee1}{\hyperlink{classvector}{vector} $\ast$$\ast$ {\bfseries normals}}\label{classTerrain_ab48c6f5a224642c7e415cf397d7c0ee1}
+
+\end{DoxyCompactItemize}
+
+
+\-The documentation for this class was generated from the following files\-:\begin{DoxyCompactItemize}
+\item 
+\-Terrain.\-h\item 
+\-Terrain.\-cpp\end{DoxyCompactItemize}
